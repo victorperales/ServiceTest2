@@ -1,0 +1,1 @@
+This is a simple android app for playing back an audio stream from the web in a service running in other thread than the main activity. There are issues on the app lifecycle to reslove.
